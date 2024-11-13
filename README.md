@@ -6,4 +6,4 @@ cd .. --- for going back in directory
 to make folder is to (mkdir name)
 to connect to git --- git init
 git checkout -b= new branch and -d for delete branch
-pull  command is of geting online repo to offline repo
+pull  command is of geting online repo to offline 
